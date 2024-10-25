@@ -1,0 +1,131 @@
+{
+    "Realism": [
+        "Andrew Wyeth", "Ilya Repin", "Gustave Courbet", "Edward Hopper", "Jean-Baptiste-Camille Corot",
+        "Thomas Eakins", "Honore Daumier", "John Constable", "Winslow Homer", "Thomas Cole",
+        "Jules Bastien-Lepage", "George Bellows", "Ivan Shishkin", "Leonid Pasternak", "Valentin Serov"
+    ],
+    "Impressionism": [
+        "Claude Monet", "Pierre-Auguste Renoir", "Edgar Degas", "Édouard Manet", "Camille Pissarro",
+        "Mary Cassatt", "Berthe Morisot", "Alfred Sisley", "Gustave Caillebotte", "James McNeill Whistler",
+        "Paul Cézanne", "Henri de Toulouse-Lautrec", "Georges Seurat", "Armand Guillaumin", "Frédéric Bazille"
+    ],
+    "Expressionism": [
+        "Edvard Munch", "Wassily Kandinsky", "Egon Schiele", "Ernst Ludwig Kirchner", "Franz Marc",
+        "Oskar Kokoschka", "Max Beckmann", "George Grosz", "August Macke", "Karl Schmidt-Rottluff",
+        "Paul Klee", "Otto Dix", "Chaim Soutine", "Lovis Corinth", "Emil Nolde", "Alexej von Jawlensky"
+    ],
+    "Surrealism": [
+        "Salvador Dalí", "René Magritte", "Max Ernst", "André Breton", "Yves Tanguy",
+        "Joan Miró", "Man Ray", "Leonora Carrington", "Dorothea Tanning", "Luis Buñuel",
+        "Meret Oppenheim", "Jean Arp", "Paul Delvaux", "Hans Bellmer", "Giorgio de Chirico",
+        "Kay Sage", "Wilfredo Lam", "Francis Picabia", "Victor Brauner"
+    ],
+    "Anime": [
+        "Hayao Miyazaki", "Makoto Shinkai", "Satoshi Kon", "Mamoru Hosoda", "Hideaki Anno",
+        "Isao Takahata", "Yoshiyuki Tomino", "Shinji Aramaki", "Leiji Matsumoto", "Kunihiko Ikuhara",
+        "Takeshi Koike", "Hiroyuki Imaishi", "Katsuhiro Otomo", "Naoko Yamada", "Masaaki Yuasa",
+        "Yoshiaki Kawajiri", "Rintaro", "Osamu Dezaki", "Tatsuyuki Nagai", "Shinichirō Watanabe"
+    ],
+    "Manga": [
+        "Osamu Tezuka", "Akira Toriyama", "Naoki Urasawa", "Takehiko Inoue", "Rumiko Takahashi",
+        "Eiichiro Oda", "Hajime Isayama", "Kentaro Miura", "Yoshihiro Togashi", "CLAMP",
+        "Katsuhiro Otomo", "Masashi Kishimoto", "Tite Kubo", "Kei Toume", "Nobuhiro Watsuki",
+        "Sui Ishida", "Shigeru Mizuki", "Junji Ito", "Yoshikazu Yasuhiko", "Moto Hagio"
+    ],
+    "Portraiture": [
+        "John Singer Sargent", "Rembrandt", "Diego Velázquez", "Frida Kahlo", "Gustav Klimt",
+        "Albrecht Dürer", "Hans Holbein the Younger", "Anthony van Dyck", "Thomas Gainsborough", "Élisabeth Vigée Le Brun",
+        "Francisco Goya", "Edgar Degas", "Lucian Freud", "Chuck Close", "Titian",
+        "Francis Bacon", "Jean-Auguste-Dominique Ingres", "Joshua Reynolds", "El Greco", "Amedeo Modigliani"
+    ],
+    "Pop Art": [
+        "Andy Warhol", "Roy Lichtenstein", "Keith Haring", "David Hockney", "Robert Indiana",
+        "James Rosenquist", "Claes Oldenburg", "Richard Hamilton", "Peter Blake", "Tom Wesselmann",
+        "Ed Ruscha", "Yayoi Kusama", "Robert Rauschenberg", "Mel Ramos", "Takashi Murakami",
+        "Alex Katz", "Wayne Thiebaud", "Pauline Boty", "Allen Jones", "George Segal"
+    ],
+    "Fantasy Art": [
+        "Frank Frazetta", "Boris Vallejo", "Michael Whelan", "Luis Royo", "Alan Lee",
+        "John Howe", "Greg Hildebrandt", "Larry Elmore", "Jeff Easley", "Wayne Reynolds",
+        "Chris Achilleos", "Brom", "Keith Parkinson", "Donato Giancola", "Steve Prescott",
+        "Rowena Morrill", "Paul Bonner", "Julie Bell", "Terese Nielsen", "Ian Miller"
+    ],
+    "Cyberpunk": [
+        "Hajime Sorayama", "Katsuhiro Otomo", "Masamune Shirow", "Syd Mead", "Simon Stålenhag",
+        "Tsutomu Nihei", "Kazuhiko Kato", "Moebius", "H.R. Giger", "Zdzisław Beksiński",
+        "William Gibson", "Bruce Sterling", "Philip K. Dick", "Geoff Darrow", "Yoshitaka Amano",
+        "Feng Zhu", "Jim Burns", "John Berkey", "Ralph McQuarrie", "Greg Broadmore"
+    ],
+    "Digital Art": [
+        "Beeple", "Mike Nash", "Sakimichan", "Loish", "Artgerm",
+        "Wojtek Fus", "Craig Mullins", "Pascal Blanche", "Ruan Jia", "Charlie Bowater",
+        "Ross Tran", "Kim Jung Gi", "Dan Luvisi", "Shaddy Safadi", "Feng Zhu",
+        "Maciej Kuciara", "Noah Bradley", "Anthony Jones", "Glen Keane", "Jason Chan"
+    ],
+    "Cartoon Illustration": [
+        "Glen Keane", "Tex Avery", "Chuck Jones", "Bruce Timm", "Genndy Tartakovsky",
+        "Rebecca Sugar", "Matt Groening", "John Kricfalusi", "Don Bluth", "Seth MacFarlane",
+        "Craig McCracken", "Pendleton Ward", "Chris Savino", "Butch Hartman", "David Feiss",
+        "Bill Plympton", "John Lasseter", "Trey Parker", "Joe Murray", "Stephen Hillenburg"
+    ],
+    "Concept Art": [
+        "Feng Zhu", "Jama Jurabaev", "Sparth (Nicolas Bouvier)", "James Paick", "Syd Mead",
+        "Raphael Lacoste", "John Park", "Shaddy Safadi", "Eytan Zana", "Maciej Kuciara",
+        "Vitaly Bulgarov", "Christian Alzmann", "James Gurney", "Neville Page", "Ian McCaig",
+        "Aaron Beck", "Paul Chadeisson", "Craig Mullins", "Ruan Jia", "John Howe"
+    ],
+    "Abstract Art": [
+        "Wassily Kandinsky", "Jackson Pollock", "Piet Mondrian", "Mark Rothko", "Paul Klee",
+        "Kazimir Malevich", "Helen Frankenthaler", "Franz Kline", "Joan Miró", "Barnett Newman",
+        "Arshile Gorky", "Ellsworth Kelly", "Robert Motherwell", "Frank Stella", "Bridget Riley",
+        "Ad Reinhardt", "Richard Diebenkorn", "Clyfford Still", "Hans Hofmann", "Gerhard Richter"
+    ],
+    "Art Nouveau": [
+        "Alphonse Mucha", "Gustav Klimt", "Aubrey Beardsley", "Henri de Toulouse-Lautrec", "Koloman Moser",
+        "Hector Guimard", "Louis Comfort Tiffany", "Victor Horta", "Charles Rennie Mackintosh", "Émile Gallé",
+        "Otto Wagner", "Joseph Maria Olbrich", "Antonio Gaudí", "Jan Toorop", "Margaret Macdonald Mackintosh",
+        "Georges de Feure", "Léon Bakst", "Eugène Grasset", "Jean-François Raffaëlli", "Maurice Denis"
+    ],
+    "Baroque": [
+        "Caravaggio", "Peter Paul Rubens", "Gian Lorenzo Bernini", "Rembrandt", "Diego Velázquez",
+        "Artemisia Gentileschi", "Nicolas Poussin", "Frans Hals", "Johannes Vermeer", "Guido Reni",
+        "Anthony van Dyck", "Georges de La Tour", "Jusepe de Ribera", "Claude Lorrain", "Bernardo Strozzi",
+        "Domenichino", "Salvator Rosa", "Mattia Preti", "Carlo Saraceni", "Orazio Gentileschi"
+    ],
+    "Renaissance": [
+        "Leonardo da Vinci", "Michelangelo", "Raphael", "Sandro Botticelli", "Titian",
+        "Donatello", "Giovanni Bellini", "Piero della Francesca", "Andrea Mantegna", "Fra Angelico",
+        "Masaccio", "Giorgione", "Paolo Uccello", "Verrocchio", "Perugino",
+        "Lorenzo Ghiberti", "Andrea del Sarto", "Domenico Ghirlandaio", "Pietro Perugino", "Filippino Lippi"
+    ],
+    "Lowbrow Art (Pop Surrealism)": [
+        "Mark Ryden", "Robert Williams", "Camille Rose Garcia", "Audrey Kawasaki", "Greg Simkins",
+        "Tim Biskup", "Joe Coleman", "Todd Schorr", "Marion Peck", "Shag",
+        "Tara McPherson", "Alex Gross", "Gary Baseman", "Ron English", "James Jean",
+        "Michael Hussar", "Jeremy Geddes", "Esao Andrews", "Scott Musgrove", "Victor Castillo"
+    ],
+    "Graffiti Art": [
+        "Banksy", "Shepard Fairey", "Jean-Michel Basquiat", "Keith Haring", "KAWS",
+        "Os Gêmeos", "Futura", "RETNA", "Blu", "Blek le Rat",
+        "Swoon", "Dondi White", "Lee Quiñones", "Crash", "Zephyr",
+        "Lady Pink", "Shepard Fairey", "Ben Eine", "Invader", "Rammellzee"
+    ],
+    "Photorealism": [
+        "Chuck Close", "Richard Estes", "Ralph Goings", "Audrey Flack", "Robert Bechtle",
+        "John Baeder", "Charles Bell", "Don Eddy", "Tom Blackwell", "Ben Schonzeit",
+        "Clive Head", "Raphaella Spence", "Denis Peterson", "Anthony Brunelli", "Howard Kanovitz",
+        "Cindy Wright", "Gottfried Helnwein", "Isabel Quintanilla", "Paul Cadden", "Jason de Graaf"
+    ],
+    "Minimalism": [
+        "Donald Judd", "Frank Stella", "Agnes Martin", "Ellsworth Kelly", "Carl Andre",
+        "Dan Flavin", "Sol LeWitt", "Robert Morris", "Richard Serra", "John McCracken",
+        "Anne Truitt", "Brice Marden", "Eva Hesse", "Fred Sandback", "James Turrell",
+        "Robert Mangold", "Anthony Caro", "Ronald Bladen", "Michael Heizer", "Walter De Maria"
+    ],
+    "Neo-Impressionism": [
+        "Georges Seurat", "Paul Signac", "Henri-Edmond Cross", "Théo van Rysselberghe", "Maximilien Luce",
+        "Camille Pissarro", "Jan Toorop", "Albert Dubois-Pillet", "Charles Angrand", "Henri Delavallée",
+        "Léo Gausson", "Gustave Loiseau", "Louis Hayet", "Achille Laugé", "Hippolyte Petitjean",
+        "George Lemmen", "Georges Lacombe", "Henri Martin", "Théo van Rysselberghe", "Émile Bernard"
+    ]
+}
